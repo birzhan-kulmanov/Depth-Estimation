@@ -1,1 +1,2 @@
 # Depth-Estimation
+This project was implemented in the ELCE457 - Computer Vision course. The idea is the depth estimation of the single RGB image. It was implemented using the UNet architecture where EfficientNetB3 and ResNet34 pretrained on ImageNet were used as its encoder. Finally, it was obtained that the usage of the EfficientNetB3 as the encoder will result in a more clear and accurate depth map.  
